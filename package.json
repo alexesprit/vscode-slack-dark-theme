@@ -1,0 +1,26 @@
+{
+    "name": "vscode-slack-dark-theme",
+    "displayName": "Slack Dark Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "alexesprit",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexesprit/vscode-slack-dark-theme.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Slack Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./resources/theme.json"
+            }
+        ]
+    }
+}
