@@ -220,7 +220,8 @@
 				"punctuation.character.set.begin.regexp",
 				"punctuation.character.set.end.regexp",
 				"keyword.operator.negation.regexp",
-				"support.other.parenthesis.regexp"
+				"support.other.parenthesis.regexp",
+				"constant.character.escape"
 			],
 			"settings": {
 				"foreground": "#D4D7D9"
