@@ -258,17 +258,6 @@
 			"settings": {
 				"foreground": "#AAE15D"
 			}
-		},
-		{
-			"name": "variables",
-			"scope": [
-				"support.type.property-name",
-				"support.variable",
-				"variable"
-			],
-			"settings": {
-				"foreground": "#D4D7D9"
-			}
 		}
 	]
 }
