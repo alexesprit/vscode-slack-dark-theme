@@ -1,6 +1,6 @@
 # Slack Dark Theme for VS Code
 
-A theme for Visua Studio Code based on a [request][rvscode] on r/vscode.
+A theme for Visual Studio Code based on a [request][rvscode] on r/vscode.
 
 ![Screenshot][screenshot]
 
