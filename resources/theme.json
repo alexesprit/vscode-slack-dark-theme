@@ -164,6 +164,25 @@
 			}
 		},
 		{
+			"scope": [
+				"entity.name.tag.html",
+				"entity.name.tag.css"
+			],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"entity.other",
+				"punctuation.definition.entity",
+				"entity.name.type.class"
+			],
+			"settings": {
+				"foreground": "#E5C07B"
+			}
+		},
+		{
 			"name": "keywords",
 			"scope": [
 				"keyword",
@@ -172,6 +191,14 @@
 			"settings": {
 				"foreground": "#48A6A9",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"keyword.other.unit"
+			],
+			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -205,10 +232,12 @@
 			}
 		},
 		{
-			"scope": "constant.numeric",
+			"scope": [
+				"constant.numeric",
+				"keyword.other.unit"
+			],
 			"settings": {
-				"foreground": "#9874C4",
-				"fontStyle": "bold"
+				"foreground": "#9874C4"
 			}
 		},
 		{
