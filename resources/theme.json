@@ -145,10 +145,19 @@
 		{
 			"name": "functions",
 			"scope": [
-				"entity",
 				"entity.name.function",
 				"punctuation.definition.entity",
 				"support.function"
+			],
+			"settings": {
+				"foreground": "#DD8BB7"
+			}
+		},
+		{
+			"name": "property names",
+			"scope": [
+				"entity.name.tag",
+				"support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#DD8BB7"
