@@ -282,7 +282,8 @@
 		{
 			"name": "type keywords",
 			"scope": [
-				"storage.type"
+				"storage.type",
+				"storage.modifier"
 			],
 			"settings": {
 				"fontStyle": "bold"
