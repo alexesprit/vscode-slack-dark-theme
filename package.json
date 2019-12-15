@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "alexesprit",
     "engines": {
-        "vscode": "^1.40.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"
