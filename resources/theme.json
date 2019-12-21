@@ -176,7 +176,8 @@
 			"scope": [
 				"entity.other",
 				"punctuation.definition.entity",
-				"entity.name.type.class"
+				"entity.name.type.class",
+				"entity.name.type.instance"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
