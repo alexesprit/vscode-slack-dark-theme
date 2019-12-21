@@ -128,8 +128,13 @@
 		"activityBar.foreground": "#ffffff",
 		"activityBarBadge.foreground": "#ffffff",
 		"gitDecoration.untrackedResourceForeground": "#AAE15D",
+		"gitDecoration.addedResourceForeground": "#E5C07B",
 		"gitDecoration.modifiedResourceForeground": "#E5C07B",
-		"gitDecoration.deletedResourceForeground": "#E06C75"
+		"gitDecoration.deletedResourceForeground": "#E06C75",
+		"gitDecoration.conflictingResourceForeground": "#DD8BB7",
+		"editorGutter.modifiedBackground": "#E5C07B",
+		"editorGutter.addedBackground": "#AAE15D",
+		"editorGutter.deletedBackground": "#E06C75"
 	},
 	"tokenColors": [
 		{
