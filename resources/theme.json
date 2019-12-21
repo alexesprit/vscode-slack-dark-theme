@@ -249,6 +249,7 @@
 				"punctuation.definition.template-expression.begin",
 				"punctuation.definition.template-expression.end",
 				"punctuation.section.embedded",
+				"variable.other.interpolated",
 				"meta.fstring",
 				"meta.embedded"
 			],
