@@ -204,7 +204,8 @@
 		{
 			"name": "operators",
 			"scope": [
-				"keyword.operator"
+				"keyword.operator",
+				"storage.type.function.arrow"
 			],
 			"settings": {
 				"foreground": "#FF5C92"
