@@ -2,7 +2,7 @@
     "name": "vscode-slack-dark-theme",
     "displayName": "Slack Dark Theme",
     "description": "Simple dark theme",
-    "version": "0.2.2",
+    "version": "0.3.0",
     "publisher": "alexesprit",
     "engines": {
         "vscode": "*"
