@@ -260,7 +260,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#D4D7D9"
+				"foreground": "#F6A74F"
 			}
 		},
 		{
@@ -269,10 +269,12 @@
 				"constant.character.format.placeholder",
 				"punctuation.definition.template-expression.begin",
 				"punctuation.definition.template-expression.end",
-				"punctuation.section.embedded"
+				"punctuation.section.embedded",
+				"meta.fstring",
+				"meta.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D7D9"
+				"foreground": "#F6A74F"
 			}
 		},
 		{
