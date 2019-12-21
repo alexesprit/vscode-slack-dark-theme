@@ -4,6 +4,7 @@
     "description": "Simple dark theme",
     "version": "0.3.1",
     "publisher": "alexesprit",
+    "license": "MIT",
     "engines": {
         "vscode": "*"
     },
