@@ -206,7 +206,6 @@
 			"name": "primitives",
 			"scope": [
 				"constant",
-				"keyword.other",
 				"support.type"
 			],
 			"settings": {
