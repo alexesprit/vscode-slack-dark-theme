@@ -127,8 +127,8 @@
 		"widget.shadow": "#00000000",
 		"activityBar.foreground": "#ffffff",
 		"activityBarBadge.foreground": "#ffffff",
-		"gitDecoration.untrackedResourceForeground": "#98C379",
-		"gitDecoration.modifiedResourceForeground": "#D19A66",
+		"gitDecoration.untrackedResourceForeground": "#AAE15D",
+		"gitDecoration.modifiedResourceForeground": "#E5C07B",
 		"gitDecoration.deletedResourceForeground": "#E06C75"
 	},
 	"tokenColors": [
