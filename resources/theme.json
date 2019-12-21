@@ -297,6 +297,16 @@
 			"settings": {
 				"foreground": "#AAE15D"
 			}
+		},
+		{
+			"name": "punctuation",
+			"scope": [
+				"meta.brace",
+				"punctuation"
+			],
+			"settings": {
+				"foreground": "#A9B2C3"
+			}
 		}
 	]
 }
