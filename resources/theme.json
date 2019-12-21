@@ -186,10 +186,13 @@
 			}
 		},
 		{
-			"name": "keywords",
+			"name": "keywords and types",
 			"scope": [
 				"keyword",
-				"punctuation.definition.keyword"
+				"punctuation.definition.keyword",
+				"storage",
+				"support.class",
+				"support.constant"
 			],
 			"settings": {
 				"foreground": "#48A6A9",
@@ -270,17 +273,6 @@
 			],
 			"settings": {
 				"foreground": "#D4D7D9"
-			}
-		},
-		{
-			"name": "types",
-			"scope": [
-				"storage",
-				"support.class",
-				"support.constant"
-			],
-			"settings": {
-				"foreground": "#4AA6A9"
 			}
 		},
 		{
