@@ -73,7 +73,7 @@
 		"editorWidget.background": "#181A1F",
 		"notificationCenterHeader.background": "#181A1F",
 		"notifications.background": "#181A1F",
-		"panel.background": "#181A1F",
+		"panel.background": "#111",
 		"peekViewEditor.background": "#181A1F",
 		"peekViewResult.background": "#181A1F",
 		"peekViewTitle.background": "#181A1F",
