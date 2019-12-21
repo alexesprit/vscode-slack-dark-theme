@@ -154,35 +154,18 @@
 			}
 		},
 		{
-			"name": "property names",
-			"scope": [
-				"entity.name.tag",
-				"support.type.property-name"
-			],
-			"settings": {
-				"foreground": "#DD8BB7"
-			}
-		},
-		{
-			"name": "bold html/xml tags",
-			"scope": [
-				"entity.name.tag.html",
-				"entity.name.tag.css"
-			],
-			"settings": {
-				"fontStyle": "bold"
-			}
-		},
-		{
 			"name": "class names, custom types etc",
 			"scope": [
 				"entity.other",
-				"support.type",
-				"support.class",
+				"entity.name.tag.yaml",
 				"entity.name.type",
-				"punctuation.definition.entity",
 				"entity.name.type.class",
-				"entity.name.type.instance"
+				"entity.name.type.instance",
+				"support.class",
+				"support.type",
+				"support.constant",
+				"support.type.property-name",
+				"punctuation.definition.entity"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
@@ -193,39 +176,29 @@
 			"scope": [
 				"keyword",
 				"storage",
-				"support.constant",
 				"punctuation.definition.keyword"
 			],
 			"settings": {
-				"foreground": "#48A6A9",
-				"fontStyle": "bold"
+				"foreground": "#48A6A9"
 			}
 		},
 		{
-			"name": "make CSS units normal",
+			"name": "tag names",
 			"scope": [
-				"keyword.other.unit"
+				"entity.name.tag"
 			],
 			"settings": {
-				"fontStyle": ""
+				"foreground": "#48A6A9"
 			}
 		},
 		{
 			"name": "primitives",
 			"scope": [
-				"constant"
+				"constant",
+				"support.constant.property-value"
 			],
 			"settings": {
 				"foreground": "#F6A74F"
-			}
-		},
-		{
-			"name": "language contants",
-			"scope": [
-				"constant.language"
-			],
-			"settings": {
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -234,8 +207,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#FF5C92",
-				"fontStyle": "bold"
+				"foreground": "#FF5C92"
 			}
 		},
 		{
@@ -279,16 +251,6 @@
 			}
 		},
 		{
-			"name": "bold type keywords",
-			"scope": [
-				"storage.type",
-				"storage.modifier"
-			],
-			"settings": {
-				"fontStyle": "bold"
-			}
-		},
-		{
 			"name": "strings",
 			"scope": [
 				"string",
@@ -306,6 +268,32 @@
 			],
 			"settings": {
 				"foreground": "#A9B2C3"
+			}
+		},
+		{
+			"name": "bold font",
+			"scope": [
+				"constant.language",
+				"storage",
+				"storage.type",
+				"storage.modifier",
+				"keyword",
+				"keyword.operator",
+				"entity.name.tag.html",
+				"entity.name.tag.css",
+				"punctuation.definition.keyword"
+			],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "normal font",
+			"scope": [
+				"keyword.other.unit"
+			],
+			"settings": {
+				"fontStyle": ""
 			}
 		}
 	]
