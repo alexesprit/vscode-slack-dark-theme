@@ -170,18 +170,22 @@
 				"support.type",
 				"support.constant",
 				"support.type.property-name",
-				"punctuation.definition.entity"
+				"punctuation.definition.entity",
+				"constant.other.reference"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
 			}
 		},
 		{
-			"name": "keywords and types",
+			"name": "keywords, types, tags etc",
 			"scope": [
 				"keyword",
 				"storage",
-				"punctuation.definition.keyword"
+				"entity.name.tag",
+				"entity.name.section",
+				"punctuation.definition.keyword",
+				"punctuation.definition.heading"
 			],
 			"settings": {
 				"foreground": "#48A6A9"
@@ -190,7 +194,7 @@
 		{
 			"name": "tag names",
 			"scope": [
-				"entity.name.tag"
+
 			],
 			"settings": {
 				"foreground": "#48A6A9"
@@ -280,6 +284,7 @@
 		{
 			"name": "bold font",
 			"scope": [
+				"markup.bold",
 				"constant.language",
 				"storage",
 				"storage.type",
@@ -287,10 +292,21 @@
 				"keyword",
 				"keyword.operator",
 				"entity.name.tag",
-				"punctuation.definition.keyword"
+				"entity.name.section",
+				"punctuation.definition.keyword",
+				"punctuation.definition.heading"
 			],
 			"settings": {
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "italic font",
+			"scope": [
+				"markup.italic"
+			],
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 		{
