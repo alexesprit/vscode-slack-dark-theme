@@ -177,6 +177,9 @@
 			"name": "class names, custom types etc",
 			"scope": [
 				"entity.other",
+				"support.type",
+				"support.class",
+				"entity.name.type",
 				"punctuation.definition.entity",
 				"entity.name.type.class",
 				"entity.name.type.instance"
@@ -189,10 +192,9 @@
 			"name": "keywords and types",
 			"scope": [
 				"keyword",
-				"punctuation.definition.keyword",
 				"storage",
-				"support.class",
-				"support.constant"
+				"support.constant",
+				"punctuation.definition.keyword"
 			],
 			"settings": {
 				"foreground": "#48A6A9",
@@ -211,8 +213,7 @@
 		{
 			"name": "primitives",
 			"scope": [
-				"constant",
-				"support.type"
+				"constant"
 			],
 			"settings": {
 				"foreground": "#F6A74F"
