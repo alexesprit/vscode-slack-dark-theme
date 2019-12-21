@@ -279,8 +279,7 @@
 				"storage.modifier",
 				"keyword",
 				"keyword.operator",
-				"entity.name.tag.html",
-				"entity.name.tag.css",
+				"entity.name.tag",
 				"punctuation.definition.keyword"
 			],
 			"settings": {
@@ -290,7 +289,8 @@
 		{
 			"name": "normal font",
 			"scope": [
-				"keyword.other.unit"
+				"keyword.other.unit",
+				"entity.name.tag.yaml"
 			],
 			"settings": {
 				"fontStyle": ""
