@@ -250,8 +250,11 @@
 				"constant.character.format.placeholder",
 				"punctuation.definition.template-expression.begin",
 				"punctuation.definition.template-expression.end",
+				"punctuation.definition.variable.begin.batchfile",
+				"punctuation.definition.variable.end.batchfile",
 				"punctuation.section.embedded",
 				"variable.other.interpolated",
+				"variable.other.readwrite.batchfile",
 				"meta.fstring",
 				"meta.embedded"
 			],
