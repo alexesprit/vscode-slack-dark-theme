@@ -174,7 +174,8 @@
 				"punctuation.definition.range",
 				"constant.other.reference",
 				"meta.diff.index",
-				"meta.diff.range"
+				"meta.diff.range",
+				"keyword.other.definition"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
@@ -189,7 +190,8 @@
 				"entity.name.section",
 				"meta.diff.header",
 				"punctuation.definition.keyword",
-				"punctuation.definition.heading"
+				"punctuation.definition.heading",
+				"punctuation.definition.entity"
 			],
 			"settings": {
 				"foreground": "#48A6A9"
@@ -218,7 +220,8 @@
 			"name": "operators",
 			"scope": [
 				"keyword.operator",
-				"storage.type.function.arrow"
+				"storage.type.function.arrow",
+				"punctuation.separator.key-value"
 			],
 			"settings": {
 				"foreground": "#E06C75"
@@ -346,7 +349,8 @@
 				"meta.diff.header.to-file",
 				"meta.diff.header.from-file",
 				"punctuation.definition.to-file",
-				"punctuation.definition.from-file"
+				"punctuation.definition.from-file",
+				"keyword.other.definition"
 			],
 			"settings": {
 				"fontStyle": ""
