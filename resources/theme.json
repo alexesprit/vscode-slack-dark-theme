@@ -198,15 +198,6 @@
 			}
 		},
 		{
-			"name": "tag names",
-			"scope": [
-
-			],
-			"settings": {
-				"foreground": "#48A6A9"
-			}
-		},
-		{
 			"name": "primitives",
 			"scope": [
 				"constant",
