@@ -267,7 +267,8 @@
 			"name": "strings",
 			"scope": [
 				"string",
-				"markup.inline"
+				"markup.inline",
+				"punctuation.definition.string"
 			],
 			"settings": {
 				"foreground": "#AAE15D"
