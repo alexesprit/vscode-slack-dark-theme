@@ -225,6 +225,12 @@
 			}
 		},
 		{
+			"scope": "keyword.other.definition.ini",
+			"settings": {
+				"foreground": "#E5C07B"
+			}
+		},
+		{
 			"scope": [
 				"entity.other.attribute-name.class.css",
 				"entity.other.attribute-name.class.mixin.css",
@@ -292,7 +298,7 @@
 		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
-				"foreground": "#AAE15D"
+				"foreground": "#A9B2C3"
 			}
 		},
 		{
