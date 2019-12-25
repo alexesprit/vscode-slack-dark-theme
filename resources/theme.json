@@ -128,13 +128,18 @@
 		"activityBar.foreground": "#ffffff",
 		"activityBarBadge.foreground": "#ffffff",
 		"gitDecoration.untrackedResourceForeground": "#AAE15D",
+		"gitDecoration.conflictingResourceForeground": "#DD8BB7",
 		"gitDecoration.addedResourceForeground": "#E5C07B",
 		"gitDecoration.modifiedResourceForeground": "#E5C07B",
 		"gitDecoration.deletedResourceForeground": "#E06C75",
-		"gitDecoration.conflictingResourceForeground": "#DD8BB7",
-		"editorGutter.modifiedBackground": "#E5C07B",
 		"editorGutter.addedBackground": "#AAE15D",
-		"editorGutter.deletedBackground": "#E06C75"
+		"editorGutter.deletedBackground": "#E06C75",
+		"editorGutter.modifiedBackground": "#E5C07B",
+		"minimapGutter.addedBackground": "#AAE15D",
+		"minimapGutter.deletedBackground": "#E06C75",
+		"minimapGutter.modifiedBackground": "#E5C07B",
+		"minimap.errorHighlight": "#E06C75",
+		"minimap.warningHighlight": "#E5C07B"
 	},
 	"tokenColors": [
 		{
