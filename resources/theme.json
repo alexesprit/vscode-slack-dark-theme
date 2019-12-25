@@ -255,6 +255,7 @@
 				"punctuation.section.embedded",
 				"variable.other.interpolated",
 				"variable.other.readwrite.batchfile",
+				"string.interpolated",
 				"meta.fstring",
 				"meta.embedded"
 			],
