@@ -617,6 +617,11 @@
 				"storage.type.object.array.groovy",
 				"storage.type.primitive.array.groovy",
 				"storage.type.primitive.groovy",
+				"storage.type.boolean.v",
+				"storage.type.byte.v",
+				"storage.type.byteptr.v",
+				"storage.type.charptr.v",
+				"storage.type.numeric.v",
 				"storage.type.string.v"
 			],
 			"settings": {
