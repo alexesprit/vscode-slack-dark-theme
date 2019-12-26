@@ -589,6 +589,7 @@
 				"entity.name.type",
 				"entity.name.namespace",
 				"entity.other.attribute",
+				"entity.other.inherited-class",
 				"entity.name.scope-resolution",
 				"entity.name.class",
 				"storage.type.numeric.go",
