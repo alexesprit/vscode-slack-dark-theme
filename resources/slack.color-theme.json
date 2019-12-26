@@ -486,6 +486,7 @@
 				"keyword.operator",
 				"keyword.operator.comparison.ruby",
 				"storage.type.function.arrow",
+				"storage.type.function.coffee",
 				"punctuation.separator.key-value"
 			],
 			"settings": {
@@ -495,6 +496,7 @@
 		{
 			"scope": [
 				"keyword.operator.new",
+				"keyword.operator.comparison",
 				"keyword.operator.expression",
 				"keyword.operator.cast",
 				"keyword.operator.sizeof",
@@ -503,6 +505,7 @@
 				"keyword.operator.alignas",
 				"keyword.operator.instanceof",
 				"keyword.operator.logical.python",
+				"keyword.operator.logical.batchfile",
 				"keyword.operator.wordlike"
 			],
 			"settings": {
@@ -569,6 +572,15 @@
 			}
 		},
 		{
+			"name": "Batchfile labels",
+			"scope": [
+				"keyword.other.special-method"
+			],
+			"settings": {
+				"foreground": "#DD8BB7"
+			}
+		},
+		{
 			"name": "Types declaration and references",
 			"scope": [
 				"meta.return-type",
@@ -603,7 +615,8 @@
 				"storage.type.generic.groovy",
 				"storage.type.object.array.groovy",
 				"storage.type.primitive.array.groovy",
-				"storage.type.primitive.groovy"
+				"storage.type.primitive.groovy",
+				"storage.type.string.v"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
@@ -780,12 +793,13 @@
 				"storage.type.java",
 				"storage.type.groovy",
 				"keyword.other.unit",
+				"keyword.other.definition",
+				"keyword.other.special-method",
 				"entity.name.tag.yaml",
 				"meta.diff.header.to-file",
 				"meta.diff.header.from-file",
 				"punctuation.definition.to-file",
-				"punctuation.definition.from-file",
-				"keyword.other.definition"
+				"punctuation.definition.from-file"
 			],
 			"settings": {
 				"fontStyle": ""
