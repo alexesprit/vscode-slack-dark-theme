@@ -179,6 +179,12 @@
 			}
 		},
 		{
+			"scope": "keyword.command.rem.batchfile",
+			"settings": {
+				"foreground": "#5F6672"
+			}
+		},
+		{
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "#F6A74F"
