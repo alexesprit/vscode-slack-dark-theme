@@ -517,7 +517,7 @@
 		{
 			"scope": [
 				"keyword.operator.new",
-				"keyword.operator.comparison",
+				"keyword.operator.comparison.batchfile",
 				"keyword.operator.expression",
 				"keyword.operator.cast",
 				"keyword.operator.sizeof",
@@ -615,6 +615,7 @@
 				"entity.name.enum",
 				"entity.name.class",
 				"entity.name.struct",
+				"storage.type.built-in",
 				"storage.type.numeric.go",
 				"storage.type.byte.go",
 				"storage.type.boolean.go",
