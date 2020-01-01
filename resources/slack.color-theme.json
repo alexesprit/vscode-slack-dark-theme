@@ -646,7 +646,8 @@
 				"storage.type.byteptr.v",
 				"storage.type.charptr.v",
 				"storage.type.numeric.v",
-				"storage.type.string.v"
+				"storage.type.string.v",
+				"storage.type.other.v"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
@@ -822,6 +823,7 @@
 			"scope": [
 				"storage.type.java",
 				"storage.type.groovy",
+				"storage.type.other.v",
 				"keyword.other.unit",
 				"keyword.other.definition",
 				"keyword.other.special-method",
