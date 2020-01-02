@@ -595,7 +595,7 @@
 		{
 			"name": "Batchfile labels",
 			"scope": [
-				"keyword.other.special-method"
+				"keyword.other.special-method.batchfile"
 			],
 			"settings": {
 				"foreground": "#DD8BB7"
@@ -826,7 +826,7 @@
 				"storage.type.other.v",
 				"keyword.other.unit",
 				"keyword.other.definition",
-				"keyword.other.special-method",
+				"keyword.other.special-method.batchfile",
 				"entity.name.tag.yaml",
 				"meta.diff.header.to-file",
 				"meta.diff.header.from-file",
