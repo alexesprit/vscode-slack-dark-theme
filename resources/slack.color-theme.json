@@ -646,8 +646,10 @@
 				"storage.type.byteptr.v",
 				"storage.type.charptr.v",
 				"storage.type.numeric.v",
+				"storage.type.other.v",
+				"storage.type.rune.v",
 				"storage.type.string.v",
-				"storage.type.other.v"
+				"storage.type.voidptr.v"
 			],
 			"settings": {
 				"foreground": "#E5C07B"
