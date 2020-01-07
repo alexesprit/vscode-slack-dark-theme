@@ -649,6 +649,7 @@
 				"storage.type.other.v",
 				"storage.type.rune.v",
 				"storage.type.string.v",
+				"storage.type.ustring.v",
 				"storage.type.voidptr.v"
 			],
 			"settings": {
