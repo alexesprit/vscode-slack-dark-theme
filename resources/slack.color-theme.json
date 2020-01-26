@@ -460,6 +460,8 @@
 				"punctuation.definition.template-expression.end",
 				"punctuation.definition.variable.begin.batchfile",
 				"punctuation.definition.variable.end.batchfile",
+				"punctuation.definition.interpolation.begin",
+				"punctuation.definition.interpolation.end",
 				"punctuation.section.embedded",
 				"variable.other.interpolated",
 				"variable.other.readwrite.batchfile",
@@ -644,6 +646,7 @@
 				"storage.type.object.array.groovy",
 				"storage.type.primitive.array.groovy",
 				"storage.type.primitive.groovy",
+				"keyword.type.cs",
 				"keyword.map.v",
 				"storage.type.bool.v",
 				"storage.type.byte.v",
@@ -822,6 +825,7 @@
 		{
 			"name": "normal font",
 			"scope": [
+				"storage.type.cs",
 				"storage.type.java",
 				"storage.type.groovy",
 				"storage.type.other.v",
