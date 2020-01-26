@@ -667,8 +667,7 @@
 				"meta.type.new.expr",
 				"support.constant.math",
 				"support.constant.dom",
-				"support.constant.json",
-				"entity.other.inherited-class"
+				"support.constant.json"
 			],
 			"settings": {
 				"foreground": "#48A6A9"
