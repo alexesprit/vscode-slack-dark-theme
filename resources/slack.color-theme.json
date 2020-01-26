@@ -752,14 +752,9 @@
 		{
 			"scope": [
 				"keyword.operator.or.regexp",
-				"keyword.control.anchor.regexp"
+				"keyword.control.anchor.regexp",
+				"keyword.operator.quantifier.regexp"
 			],
-			"settings": {
-				"foreground": "#E06C75"
-			}
-		},
-		{
-			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
 				"foreground": "#E06C75"
 			}
