@@ -77,7 +77,7 @@
 		"errorForeground": "#E95484",
 		"focusBorder": "#00000000",
 		"gitlens.trailingLineForegroundColor": "#5F6672",
-		"gitDecoration.addedResourceForeground": "#E5C07B",
+		"gitDecoration.addedResourceForeground": "#A9DF5D",
 		"gitDecoration.conflictingResourceForeground": "#CE83AC",
 		"gitDecoration.deletedResourceForeground": "#E95484",
 		"gitDecoration.modifiedResourceForeground": "#E5C07B",
